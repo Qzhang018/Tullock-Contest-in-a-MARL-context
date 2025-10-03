@@ -52,6 +52,7 @@ where $V$ is the prize value(default $V=1$)。
   $$
   x_i \in [0, x_{\max}]
   $$
+  
   default $x_{\max}=1.0$
 
 - **Observation space (minimal)**：  
